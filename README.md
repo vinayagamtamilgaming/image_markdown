@@ -1,6 +1,4 @@
 
-
-
 # Instalando as dependências
 
 # Sincronize o UV execute esse comando no terminal
